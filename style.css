@@ -1,5 +1,6 @@
 h1 {
     text-align: center;
+    margin: 50px;
 }
 h3 {
     text-align: center;
@@ -54,3 +55,9 @@ a {
 .text {
     text-align:  center;
    }
+
+ol {
+    width: 960px;
+    margin: 0 auto;
+   
+}
